@@ -1,0 +1,46 @@
+# trackers from malicious extensions
+# from https://gist.github.com/sarog/6864f19ad0609e60e30d87ca0429fba6
+# related to https://github.com/greatsuspender/thegreatsuspender/issues/1263#issuecomment-774562192
+api.22.privacytrck.com
+api.analyticlister.com
+api.privacytrck.com
+api.trackivation.com
+api.trackized.com
+cdn.coveranalytic.com
+cdn.owebanalytics.com
+cddn.owebanalytics.com
+cdn.preanalytication.com
+cdn.productanalytic.com
+cdn.trackanalytics2.com
+cdn.trackinganalytica.com
+cdn.webtraanalytica.com
+dc.airdropanalytics.com
+pc.findanalytic.com
+pc.freetrck.com
+pc.pursueanalytics.com
+pc.tracking-analytics.net
+pe.labelinganalytics.com
+rctphvxwnjhx.pw
+static.analyticatrck.com
+static.cdntrck.com
+static.gowebapitrack.com
+static.mywebapitrack.com
+static.notifyergency.com
+static.onlinewebapitrack.com
+static.privacytrck.com
+static.trackerdnsapi.com
+static.trackivation.com
+static.trackized.com
+static.tracktreded.com
+static.trckingbyte.com
+static.trckljanalytic.com
+static.trckpath.com
+static.trckstnation.com
+static.webtrackinganalytics.com
+static2.cdntrck.com
+tr.perusalanalytics.com
+www.privacytrck.com
+
+# Related
+cwpx.armeriaalbenganese.it
+eaes.2track.info
