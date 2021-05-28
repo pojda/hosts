@@ -180,3 +180,6 @@ open.convertkit-mail4.com
 convertkit-mail4.com
 downloads.digitalmarketingdepot.com
 info.thirddoormedia.com
+campaign-image.eu
+fbgy.maillist-manage.eu
+maillist-manage.eu
