@@ -35,8 +35,8 @@ dzone.com
 elaine-asp.de
 emailretargeting.com
 emailtracking.azure.com
-\.emltrk\.com$
-#emltrk.com
+emltrk\.com$
+emltrk.com
 exacttarget.com
 exct.net
 frontapp.com
