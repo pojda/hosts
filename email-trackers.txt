@@ -184,3 +184,5 @@ info.thirddoormedia.com
 campaign-image.eu
 fbgy.maillist-manage.eu
 maillist-manage.eu
+trail.bridgeteams.io
+lemlist.com
